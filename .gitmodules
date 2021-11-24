@@ -1,0 +1,6 @@
+[submodule "dietics-client"]
+	path = dietics-client
+	url = https://github.com/monjurmorshed793/dietics-client.git
+[submodule "dietics-service"]
+	path = dietics-service
+	url = https://github.com/monjurmorshed793/dietics-service.git
